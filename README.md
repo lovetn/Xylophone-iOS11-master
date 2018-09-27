@@ -1,3 +1,9 @@
+#project Info
+Name:Xylephone
+
+user ID: Loveta1 
+ date completed: sept,27,2018
+
 # Xylophone
 Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9)
 
